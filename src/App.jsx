@@ -1,6 +1,6 @@
 import { useState } from "react";
 import { chatSession } from "./components/service/aiModel";
-import ItemCard from "./components/custom/itemCard";
+import ItemCard from "./components/custom/ItemCard";
 import InputItem from "./components/custom/InputItem";
 import { AIPrompt } from "./components/service/aiModel";
 import Recipes from "./components/custom/Recipes";
